@@ -1,0 +1,2 @@
+# mount-zion-SMIS
+SCHOOL MANAGEMENT SYSTEM
